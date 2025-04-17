@@ -1,2 +1,2 @@
 # libCVec
-A practical lib (for me) to use dynamic vectors in C.
+A practical lib (for me) to use dynamic vectors (safely) in C.
